@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Bakr 👋
+# Hi, I'm Mohamed Khaled 👋
 
 HR Specialist turned Data Analyst — I bridge people strategy with data storytelling.  
 Currently at **LINRCO**, Cairo 🇪🇬
