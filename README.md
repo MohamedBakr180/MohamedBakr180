@@ -1,46 +1,67 @@
 # Hi, I'm Mohamed Khaled 👋
 
-HR Specialist turned Data Analyst — I bridge people strategy with data storytelling.  
-Currently at **LINRCO**, Cairo 🇪🇬
+**HR Specialist & Data Analyst** | Cairo, Egypt
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+I bridge the gap between HR and data — combining hands-on HR experience with data analytics skills to turn workforce data into strategic business decisions.
 
 ---
 
-## About me
+## 🧰 Tech Stack
 
-I use data to solve real HR problems — from predicting employee attrition to measuring
-training ROI. My background in HR gives me a unique lens: I understand both the business
-context and the numbers behind people decisions.
-
----
-
-## Featured projects
-
-### 📊 HR Workforce & Recruitment Analytics
-End-to-end Power BI solution covering workforce structure, recruitment pipelines,
-engagement scores, and training ROI.
-→ [View project](https://github.com/MohamedBakr180/HR-Workforce-and-Recruitment-Analytics-PowerBI)
-
-### 📉 Employee Attrition & Compensation Insights
-Analyzed attrition drivers, compensation fairness, and workforce demographics.
-→ [View project](https://github.com/MohamedBakr180/hr-analytics-employee-insights)
-
-### 🔴 HR Risk Dashboard — Pay Equity & Satisfaction
-Prioritized HR risks using a weighted risk model. Surfaced pay equity gaps and attrition hotspots.
-→ [View project](https://github.com/MohamedBakr180/HR-Data-Dashboard)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## Skills
+## 📊 Featured Projects
 
-**Analytics:** Power BI · DAX · Power Query · Power Pivot · Excel  
-**HR Domain:** Workforce Planning · Recruitment Analytics · Attrition Analysis · Compensation Analysis
+### 🏆 [HR Analytics — MySQL & Power BI](https://github.com/MohamedBakr180/HR-Analytics-MySQL-PowerBI)
+> End-to-end HR analytics project built from scratch
+
+- Designed and built a **MySQL database** with 8 tables and 5,800+ rows of realistic HR data
+- Generated data using **Python** simulating real-world HR problems (attrition, pay gaps, manager issues)
+- Built **4 Power BI dashboards** covering attrition, recruitment, workforce planning, and compensation
+- Surfaced 8 key business findings including an **8.4% gender pay gap** and **107 underpaid high performers**
+- **Tools:** MySQL · Power BI · Python · DAX · SQL Views
 
 ---
 
-📫 [linkedin.com/in/mohamedkhaled18](https://www.linkedin.com/in/mohamedkhaled18/)  
-📍 Cairo, Egypt
+### 📈 [HR Workforce & Recruitment Analytics](https://github.com/MohamedBakr180/HR-Workforce-and-Recruitment-Analytics-PowerBI)
+> Power BI dashboard analyzing workforce structure and recruitment performance
+
+- **Tools:** Power BI · DAX
+
+---
+
+### 👥 [HR Analytics — Employee Insights](https://github.com/MohamedBakr180/hr-analytics-employee-insights)
+> Analyzing employee attrition, compensation, and workforce insights
+
+- **Tools:** Power BI · DAX
+
+---
+
+### 📋 [HR Data Dashboard](https://github.com/MohamedBakr180/HR-Data-Dashboard)
+> Dashboard identifying key HR risks including pay equity and attrition
+
+- **Tools:** Power BI
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mohamedkhaled18/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedBakr180)
+
+---
+
+## 📈 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBakr180&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBakr180&layout=compact&theme=dark&hide_border=true)
+
+---
+
+*"Turning HR data into decisions that matter."*
